@@ -6,9 +6,8 @@ Creador de E-commerce -UX/UI Designer- Product Designer- HTML CSS- Full Stack co
 📚 Página Web: https://markettic.com<br>
 📺 Youtube Channel: https://youtube.com/kettyreyes/<br>
 🎙️ Podcast: https://kettyreyes.dev/podcast/<br>
-Twitter Follow YouTube Channel Subscribers Twitch Status<br>
-<img alt="Twitter Follow" src="https://markettic.com/wp-content/uploads/2023/02/icono-twitter.png"
-          style="max-width: 100%;">
+Twitter Follow <br>
+<a href="https://twitter.com/TwitterDev?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
