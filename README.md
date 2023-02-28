@@ -1,8 +1,8 @@
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://markettic.com/wp-content/uploads/2020/06/rs-slider3-online.png)">
- <source media="(prefers-color-scheme: light)" srcset="https://markettic.com/wp-content/uploads/2020/06/learning-overview_2.png)">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+ <source media="(prefers-color-scheme: light)" srcset=" <source media="(prefers-color-scheme: dark)" srcset="https://markettic.com/wp-content/uploads/2020/06/rs-slider3-online.png)">
+
+
 ###  Hola estoy aquí 👋
 
 
@@ -13,5 +13,9 @@ Creador de E-commerce -UX/UI Designer- Product Designer- HTML CSS- Full Stack co
 🎙️ Podcast: https://kettyreyes.dev/podcast/<br>
 Twitter Follow <br>
 
-
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|               |
+|     2|               |
+|     3|               |
 
