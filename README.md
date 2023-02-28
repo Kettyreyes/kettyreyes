@@ -13,9 +13,4 @@ Creador de E-commerce -UX/UI Designer- Product Designer- HTML CSS- Full Stack co
 🎙️ Podcast: https://kettyreyes.dev/podcast/<br>
 Twitter Follow <br>
 
-| Rank | THING-TO-RANK |
-|-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
 
