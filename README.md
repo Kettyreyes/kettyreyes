@@ -7,6 +7,10 @@ Creador de E-commerce -UX/UI Designer- Product Designer- HTML CSS- Full Stack co
 📺 Youtube Channel: https://youtube.com/kettyreyes/<br>
 🎙️ Podcast: https://kettyreyes.dev/podcast/<br>
 Twitter Follow <br>
-<a href="https://twitter.com/intent/tweet?screen_name=TwitterDev&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @TwitterDev</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+</picture>
 
 
