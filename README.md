@@ -1,6 +1,6 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://markettic.com/wp-content/uploads/2020/06/rs-slider3-online.png)">
- <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://markettic.com/wp-content/uploads/2020/06/learning-overview_2.png)">
+ <source media="(prefers-color-scheme: dark)" srcset="https://markettic.com/wp-content/uploads/2020/06/rs-slider3-online.png)">
+ <source media="(prefers-color-scheme: light)" srcset="https://markettic.com/wp-content/uploads/2020/06/learning-overview_2.png)">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 ###  Hola estoy aquí 👋
